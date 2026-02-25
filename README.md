@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I am Auta, and i'am a computer science at futminna interested in all things machine learning
+- 🔭 I’m currently working on tensormap projects
+- 🌱 I’m currently contributing to tensormap projects 
+- 👯 I’m looking to collaborate on open source projects
 <!--
 **Auta01/Auta01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
